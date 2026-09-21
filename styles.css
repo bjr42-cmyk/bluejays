@@ -1,0 +1,16 @@
+body {
+    background:white;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 1.5em;
+    background-image: url("");
+}
+
+.player p {
+    color: rgb(0, 20, 107);
+}
+
+h1 {
+    font-size: 4em;
+    color: blue;
+    text-align: center;
+}
